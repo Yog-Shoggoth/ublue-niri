@@ -1,5 +1,5 @@
 # image will be published to ghcr.io/<user>/<name>
-name: ublue_niri
+name: ublue-niri
 # description will be included in the image's metadata
 description: Build of Universal Blue base image with Niri WM
 
