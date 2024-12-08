@@ -30,6 +30,7 @@ modules:
       - xwayland-satellite
       - xdg-desktop-portal-hyprland
       - wl-clipboard
+      - lxqt-polkit
       # qemu etc.
       - libvirt-daemon-config-network
       - libvirt-daemon-kvm
